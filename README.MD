@@ -2,7 +2,7 @@
 
 My name is Ricardo, I'm from Barranquilla, Colombia and I love to create web apps using the MERN or PERN stack.
 
-* Currently working at Globant as Ssr backend developer.
+* Currently working at Globant as Backend developer.
 * Experience as freelancer since 2016
 * Highly experienced in Frontend but more inclined and interested in Backend development.
 
