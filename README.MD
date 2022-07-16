@@ -24,4 +24,4 @@ My name is Ricardo, I'm from Barranquilla, Colombia and I love to create web app
 
 ## Contact :envelope_with_arrow:
 
-If you like to chat you visit my Linkedin profile and send me a message: [Linkedin profile](https://www.linkedin.com/in/ralvarezcorrea/).
+If you like to chat you can visit my Linkedin profile and send me a message: [Linkedin profile](https://www.linkedin.com/in/ralvarezcorrea/).
