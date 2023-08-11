@@ -4,7 +4,7 @@ My name is Ricardo, I'm from Barranquilla, Colombia and I love to create web app
 
 * Currently working at LIFI as Backend developer.
 * Experience as freelancer, contractor and full time since 2016
-* Highly experienced in Frontend but more inclined and interested in Backend development.
+* Highly experienced in Backend development.
 
 ## Skills :sunglasses:
 
