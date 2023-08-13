@@ -9,7 +9,7 @@ My name is Ricardo, I'm from Barranquilla, Colombia and I love to create web app
 ## Skills :sunglasses:
 
 * HTML, CSS and SASS.
-* Advance Javascript.
+* Advance Javascript & Typescript.
 * Critical thinker and problem solver.
 * Quick learner and resourceful.
 * Attentive listener and deal maker. 
