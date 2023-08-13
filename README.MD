@@ -14,8 +14,8 @@ My name is Ricardo, I'm from Barranquilla, Colombia and I love to create web app
 * Quick learner and resourceful.
 * Attentive listener and deal maker. 
 * ReactJs and putting in practice the wonders of NextJs.
-* PostgreSQL, MongoDB and Firebase.
-* Serverless functions with Firebase.
+* PostgreSQL, MySQL, MongoDB and Firebase.
+* Serverless functions with Firebase and Lambda.
 * Design and deploy REST APIs.
 * GraphQL.
 * Linode, Docker and some other infrastructure setup.
